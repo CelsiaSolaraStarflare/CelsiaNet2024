@@ -18,7 +18,8 @@ CelsiaNet2024
 | Alignment
 | | Cloned project from BLIPv2
 |
-| BERT_thrid_code (Adapted)
+| BERT_thrid_code
+| | Cloned project from NVIDIA Deep Learning Examples for Tensor Cores
 |
 | configs from ControlCap
 | controlcap from ControlCap
