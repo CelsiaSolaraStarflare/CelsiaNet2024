@@ -1,5 +1,5 @@
 # CelsiaNet2024
-A Multimodal Vision Language Model Framework--St. Yau 2024 Finalist Bronze Award
+A Multimodal Vision Language Model Network Framework--St. Yau 2024 Finalist Bronze Award
 
 The technological term "Celsia" or "CELSIA" stands for Computer-vision Enhanced Lightweight System for Integrated modAlities". The Celsia series tends to try to accomplish lightweight but high precision and accurate information determination for a multi-modal framework. This serves to be a part of allowing smaller model-sized AGI networks to operate without lagging and while maintaining high precision. 
 
@@ -29,4 +29,12 @@ CelsiaNet2024
 | vision_encoder
 | | Cloned from LLaVa
 ```
+
+## Building
+### Attention Mechanisms
+To link dependencies, you will now go to "ControlCap" -> "Models" -> Replace the ControlCap T5.py file with the "Integrate/ControlCap T5.py." We have built the self-awareness layers in this file. 
+
+### Alignment
+
+
 
