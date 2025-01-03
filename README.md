@@ -1,5 +1,6 @@
 # CelsiaNet2024
 ### Showcase Format [Framework] [Patch Code] [Dependencies]
+### This Github Page is Not Yet Completed, Until All Dependencies and Documentation has been Uploaded this Page Would Work.
 A Multimodal Vision Language Model Network Framework--St. Yau 2024 Finalist Bronze Award
 
 The technological term "Celsia" or "CELSIA" stands for "Computer-vision Enhanced Lightweight System for Integrated modAlities." The Celsia series tends to try to accomplish lightweight but high-precision and accurate information determination for a multi-modal framework. This allows smaller model-sized AGI networks to operate without lagging while maintaining high precision. 
